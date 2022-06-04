@@ -2,7 +2,7 @@
 
 "spider" : "https://github.com/LinWei0718/maoys/blob/main/m0601_sj_pg.jar?raw=true",
 "sites" : [
-{"name" : "究极无敌缝合源,东拼西凑,不加密,大佬们突然撤源,留下一堆加密图片,风中凌乱. 特别感谢所有源原作者"},
+{"name" : "究極無敵縫合源,東拼西湊,不加密,特别感謝所有源原作者,僅供自用"},
 {"name" : "爬蟲"},
 //{"api":"csp_Kmys","key":"csp_Kmys","filterable":1,"name":"🐉酷貓","type":3},
 {"api":"csp_Kunyu77","key":"csp_Kunyu77","filterable":1,"name":"🐉77","type":3},
@@ -16,7 +16,6 @@
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1,"ext":""},
 {"key":"csp_Zxzj","name":"🐼在線之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Cokemv","name":"🐼Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_Live","name":"🦋設直播為首頁","type":3,"api":"csp_Live","searchable":0,"quickSearch":0,"filterable":0},
 
 {"name":"资源站"},
 {"key":"8090资源(含官采)","name":"🐱8090資源網(含官采)","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
