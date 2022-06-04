@@ -16,6 +16,7 @@
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1,"ext":""},
 {"key":"csp_Zxzj","name":"🐼在線之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Cokemv","name":"🐼Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Live","name":"🦋設直播為首頁","type":3,"api":"csp_Live","searchable":0,"quickSearch":0,"filterable":0},
 
 {"name":"资源站"},
 {"key":"8090资源(含官采)","name":"🐱8090資源網(含官采)","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
