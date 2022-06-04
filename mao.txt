@@ -6,10 +6,10 @@
 //"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 
 // 01.🐼 (非官方) 缝合jar
-"spider":"https://linwei0718.github.io/maoys/xm.jar",
+"spider":"https://github.com/LinWei0718/maoys/blob/main/xm.jar?raw=true",
 
 // 02.🐉 (非官方) S大佬维护接口:
-"spider":"https://linwei0718.github.io/maoys/baikan.jar",
+"spider":"https://github.com/LinWei0718/maoys/blob/main/baikan.jar?raw=true",
 
 // 03.🐱 (非官方) ColaMint大佬维护接口:
 // TG群 --> https://t.me/colamint
