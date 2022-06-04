@@ -35,81 +35,25 @@
 
 {"key":"csp_biubiu_厂长资源-蓝光","name":"🐱廠長藍光資源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/厂长资源-蓝光.json"},
 
-{"key":"*芒果(18+)","name":"*芒果(18+)","type":0,"api":"https://www.mgav1.cc/api.php/provide/vod/at/xml","playUrl":"","categories":[]},
-{"key":"*BT天堂(18+)","name":"*BT天堂(18+)","type":0,"api":"https://bttcj.com/inc/sapi.php","playUrl":"","categories":[]},
-
-{
-      "key": "番茄",
-      "name": "番茄",
-      "type": 1,
-      "api": "http://api.fqzy.cc/api.php/provide/vod/?ac=list",
-      "playUrl": "https://dp.8b5q.cn/dplayer/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-{
-      "key": "樱花",
-      "name": "樱花",
-      "type": 1,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-{
-      "key": "快播",
-      "name": "快播",
-      "type": 0,
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "想看",
-      "name": "想看",
-      "type": 1,
-      "api": "https://m3u8.xiangkanapi.com/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "优剧",
-      "name": "優劇",
-      "type": 1,
-      "api": "https://zy.ujuba.com/api.php/provide/vod/",
-      "playUrl": "https://zy.ujuba.com/play.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "橘猫",
-      "name": "橘貓",
-      "type": 0,
-      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-{
-      "key": "安逸",
-      "name": "安逸",
-      "type": 0,
-      "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+{"key":"番茄","name":"番茄","type": 1,"api": "http://api.fqzy.cc/api.php/provide/vod/?ac=list","playUrl": "https://dp.8b5q.cn/dplayer/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"樱花","name":"樱花","type": 1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"快播","name":"快播","type": 0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"橘猫","name":"橘貓","type": 0,"api":"http://www.zitv.cc/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*芒果(18+)","name":"🔞芒果","type":0,"api":"https://www.mgav1.cc/api.php/provide/vod/at/xml","playUrl":"","categories":[]},
+{"key":"*BT天堂(18+)","name":"🔞BT天堂","type":0,"api":"https://bttcj.com/inc/sapi.php","playUrl":"","categories":[]},
+{"key":"*水蜜桃","name":"🔞水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/"},
+{"key":"*辣椒资源","name":"🔞辣椒資源","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml"},
+{"key":"*JAV名优","name":"🔞JAV名優","type":0,"api":"http://mygzycj.com/api.php?ac=list"},
+{"key":"*乐播","name":"🔞樂播","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml"},
+{"key":"*CK资源","name":"🔞CK","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml"},
+{"key":"*S猫资源","name":"🔞S貓","type":0,"api":"https://api.maozyapi.com/inc/api.php"},
+{"key":"*九九资源吧","name":"🔞九九資源吧","type":0,"api":"http://99zyba.com/api.php/provide/vod/at/xml"},
 
 {"name":"推送"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 
 ],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="
-]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8="]}]}],
 "parses": [
     {
       "name": "Json并发",
