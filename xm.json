@@ -150,7 +150,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=tvfix&type=list"
+            "proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8="
           ]
         }
       ]
