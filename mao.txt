@@ -27,9 +27,9 @@
 {"name":"M"},
 {"key":"csp_appysv2_兄弟影视","name":"🐱兄弟影視","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://103.91.211.252:88/xgapp.php/v2/"},
 {"name":"BiuBiu"},
-{"key":"csp_biubiu_ssdy","name":"🐱雙十電影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/LinWei0718/maoys/blob/main/1010dy.json?raw=true"},
-{"key":"csp_biubiu_qyyy","name":"🐱奇優影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/LinWei0718/maoys/blob/main/qyyy.json?raw=true"},
-{"key":"csp_biubiu_lezhutv","name":"🐱樂猪影視","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/LinWei0718/maoys/blob/main/lezhutv.json?raw=true"},
+{"key":"csp_biubiu_ssdy","name":"🐱雙十電影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/LinWei0718/maoys/main/1010dy.json"},
+{"key":"csp_biubiu_qyyy","name":"🐱奇優影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/LinWei0718/maoys/main/qyyy.json"},
+{"key":"csp_biubiu_lezhutv","name":"🐱樂猪影視","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/LinWei0718/maoys/main/lezhutv.json"},
 
 {"key":"诺讯采集","name":"諾訊采集","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/at/xml/","playUrl":"https://www.nxflv.com/?url="},
 {"key":"腾讯官网","name":"騰訊官網","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
