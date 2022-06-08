@@ -1,6 +1,6 @@
 {
 
-"spider" : "https://github.com/LinWei0718/maoys/blob/main/m0601_sj_pg.jar?raw=true",
+"spider" : "https://github.com/LinWei0718/maoys/blob/main/0608.jar?raw=true",
 "sites" : [
 {"name" : "究極無敵縫合源,東拼西湊,不加密,特别感謝所有源原作者,僅供自用"},
 {"name" : "爬蟲"},
