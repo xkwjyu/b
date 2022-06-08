@@ -1,5 +1,4 @@
 {
-
 "spider" : "https://github.com/LinWei0718/maoys/blob/main/0608.jar?raw=true",
 "sites" : [
 {"name" : "究極無敵縫合源,東拼西湊,不加密,特别感謝所有源原作者,僅供自用"},
@@ -16,12 +15,8 @@
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1,"ext":""},
 {"key":"csp_Zxzj","name":"📗在線之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Cokemv","name":"📕Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"360_spider","name":"
-📺
-360(官源)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_kuaikan","name":"
-👀
-快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"360_spider","name":"📺360(官源)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"name":"资源站"},
 {"key":"8090资源(含官采)","name":"🐱8090資源網(含官采)","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
@@ -32,17 +27,9 @@
 {"name":"M"},
 {"key":"csp_appysv2_兄弟影视","name":"🐱兄弟影視","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://103.91.211.252:88/xgapp.php/v2/"},
 {"name":"BiuBiu"},
-{"key":"csp_biubiu_ssdy","name":"🐱雙十電影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/1010dy.json"},
-{"key":"csp_biubiu_qyyy","name":"🐱奇優影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/qyyy.json"},
-{"key":"csp_biubiu_lezhutv","name":"🐱樂猪影視","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/lezhutv.json"},
-{"key":"csp_biubiu_厂长资源-蓝光","name":"🐱廠長藍光資源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/厂长资源-蓝光.json"},
-
-{"key":"csp_biubiu_lezhu","name":"樂猪(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"网上自己找XBIUBIU"},
-{"key":"csp_biubiu_lgyy","name":"藍光(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"网上自己找XBIUBIU"},
-{"key":"csp_biubiu_555","name":"555(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"网上自己找XBIUBIU"},
-{"key":"v2_团夕","name":"團夕(V2)","type":3,"api":"csp_AppYs2","searchable":1,"quickSearch": 0,"filterable":1, "ext":"https://www.kan365.xyz/api.php/app/"},
-{"key":"csp_xpath_huya","name":"虎牙直播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"网上自己找XPATH"},
-{"key":"csp_xpath_hdmoli","name":"HD茉莉(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"网上自己找XPATH"},
+{"key":"csp_biubiu_ssdy","name":"🐱雙十電影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/LinWei0718/maoys/blob/main/1010dy.json?raw=true"},
+{"key":"csp_biubiu_qyyy","name":"🐱奇優影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/LinWei0718/maoys/blob/main/qyyy.json?raw=true"},
+{"key":"csp_biubiu_lezhutv","name":"🐱樂猪影視","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/LinWei0718/maoys/blob/main/lezhutv.json?raw=true"},
 
 {"key":"诺讯采集","name":"諾訊采集","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/at/xml/","playUrl":"https://www.nxflv.com/?url="},
 {"key":"腾讯官网","name":"騰訊官網","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
